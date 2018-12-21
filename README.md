@@ -4,6 +4,9 @@
 
 Code and documentation for writing a socket.io program.
 
-A sample app for demonstration of socket.io.
+A sample app for demonstration of voting process.
 
 ---
+
+## Licence and copyright
+© Leonardo, SRIT
